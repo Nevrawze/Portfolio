@@ -1,0 +1,44 @@
+html {
+	background-color: black;
+}
+
+#decoration {
+	background-color: rgba(255,255,255, .6);
+	margin: auto;
+	text-align: center;
+	width: 60%;
+	border-radius: 69px;
+	height: 250px;
+} 
+
+#bloc_contenu {
+	display: inline-block;
+	width: 50%;
+}
+
+#titre {
+	border-radius:69px 69px 0px 0px;
+	text-align: center;
+}
+
+#bloc_form-co {
+	display: flex;
+	justify-content: center;
+}
+
+#form {
+	width: 30%;
+	text-align: left;
+}
+
+#ligne {
+	background-color: black;
+	width: 2px;
+	margin: 0 71px;
+	opacity: .8;
+}
+
+#fbgg {
+	width: 30%;
+
+}
